@@ -9,8 +9,10 @@ import java.util.Map;
  * Created by dustin on 2017/3/17.
  */
 public class SendResult {
+
     private boolean isSuccess;
     private Integer errorCode;
+
     private String errorMsg;
 
     public boolean isSuccess() {
